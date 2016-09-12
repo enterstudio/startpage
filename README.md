@@ -5,3 +5,4 @@ with changes only in the favorites and wallpaper
 thanks for 4chan and dev for Startpages.github.io
 
 
+![print](https://github.com/anastiel/startpage/blob/master/print.jpg)
